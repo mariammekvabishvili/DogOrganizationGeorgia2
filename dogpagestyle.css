@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(250, 204, 157);
+}
+h2,h1 {
+    color:rgb(112, 43, 11);
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+h1 {
+    padding: 15px;
+    font-size: 40px;
+}
+img {
+    float: left;
+    padding: 10px;
+    height: 450px;
+}
+.logo {
+    height: 80px;
+}
+div p {
+    color:rgb(112, 43, 11);
+    font-family:comic sans MS;
+    font-size: larger;
+    text-align: justify;
+}
+.text {
+    color:rgb(112, 43, 11);
+    font-family:comic sans MS;
+    font-size: larger;
+}
+div[class="button"] {
+    margin: auto;
+    width: 250px;
+    height: 40px;
+    align-self: center;
+    border-radius: 25px;
+}
+button {
+    margin: auto;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    align-self: center;
+    background-color: rgb(133, 64, 19);
+    border-radius: 25px;
+    color:white;
+}
